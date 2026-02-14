@@ -53,7 +53,7 @@ function Bridge() {
 
       <p className="text-neutral-400 mb-12 text-center max-w-xl">
         Compute molecular compatibility between ingredients and discover
-        scientifically coherent flavor transitions.
+        scientifically coherent flavor transitions
       </p>
 
       <div className="w-full max-w-2xl space-y-6">
