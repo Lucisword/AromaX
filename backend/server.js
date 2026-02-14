@@ -4,7 +4,7 @@ import dotenv from "dotenv"
 
 import morphRoute from "./routes/morph.js"
 import bridgeRoute from "./routes/bridge.js"
-
+import transliterateRoute from "./routes/transliterate.js"
 dotenv.config()
 
 const app = express()
@@ -15,7 +15,7 @@ app.use(express.json())
 
 app.use("/api/bridge", bridgeRoute)
 app.use("/api/morph", morphRoute)
-
+app.use("/api/transliterate", transliterateRoute)
 app.get("/", (req, res) => {
   res.send("AromaX Backend Running")
 })

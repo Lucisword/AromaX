@@ -1,0 +1,197 @@
+{
+  "orange": {
+    "entityId": "194",
+    "topSimilarEntities": [
+      {
+        "entityName": "Tea",
+        "category": "Plant",
+        "similarMolecules": 170,
+        "wikipedia": "https://en.wikipedia.org/wiki/Tea"
+      },
+      {
+        "entityName": "Mandarin Orange",
+        "category": "Fruit Citrus",
+        "similarMolecules": 165,
+        "wikipedia": "https://en.wikipedia.org/wiki/Mandarin_orange"
+      },
+      {
+        "entityName": "Lemon",
+        "category": "Fruit Citrus",
+        "similarMolecules": 163,
+        "wikipedia": "https://en.wikipedia.org/wiki/Lemon"
+      },
+      {
+        "entityName": "Apple",
+        "category": "Fruit",
+        "similarMolecules": 153,
+        "wikipedia": "https://en.wikipedia.org/wiki/Apple"
+      },
+      {
+        "entityName": "Ginger",
+        "category": "Spice",
+        "similarMolecules": 151,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ginger"
+      },
+      {
+        "entityName": "Guava",
+        "category": "Fruit",
+        "similarMolecules": 149,
+        "wikipedia": "https://en.wikipedia.org/wiki/Guava"
+      },
+      {
+        "entityName": "Pepper",
+        "category": "Spice",
+        "similarMolecules": 148,
+        "wikipedia": "https://en.wikipedia.org/wiki/Black_pepper"
+      },
+      {
+        "entityName": "Mango",
+        "category": "Fruit",
+        "similarMolecules": 147,
+        "wikipedia": "https://en.wikipedia.org/wiki/Mango"
+      },
+      {
+        "entityName": "Black Currant",
+        "category": "Fruit",
+        "similarMolecules": 146,
+        "wikipedia": "https://en.wikipedia.org/wiki/Blackcurrant"
+      },
+      {
+        "entityName": "Laurel",
+        "category": "Plant",
+        "similarMolecules": 145,
+        "wikipedia": "https://en.wikipedia.org/wiki/Laurus_nobilis"
+      }
+    ]
+  },
+  "lemon": {
+    "entityId": "240",
+    "topSimilarEntities": [
+      {
+        "entityName": "Orange",
+        "category": "Fruit",
+        "similarMolecules": 163,
+        "wikipedia": "https://en.wikipedia.org/wiki/Orange_(fruit)"
+      },
+      {
+        "entityName": "Mandarin Orange",
+        "category": "Fruit Citrus",
+        "similarMolecules": 159,
+        "wikipedia": "https://en.wikipedia.org/wiki/Mandarin_orange"
+      },
+      {
+        "entityName": "Lime",
+        "category": "Fruit Citrus",
+        "similarMolecules": 144,
+        "wikipedia": "https://en.wikipedia.org/wiki/Key_lime"
+      },
+      {
+        "entityName": "Ginger",
+        "category": "Spice",
+        "similarMolecules": 143,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ginger"
+      },
+      {
+        "entityName": "Pepper",
+        "category": "Spice",
+        "similarMolecules": 142,
+        "wikipedia": "https://en.wikipedia.org/wiki/Black_pepper"
+      },
+      {
+        "entityName": "Celery",
+        "category": "Spice",
+        "similarMolecules": 140,
+        "wikipedia": "https://en.wikipedia.org/wiki/Celery"
+      },
+      {
+        "entityName": "Basil",
+        "category": "Herb",
+        "similarMolecules": 139,
+        "wikipedia": "https://en.wikipedia.org/wiki/Basil"
+      },
+      {
+        "entityName": "Coriander",
+        "category": "Herb",
+        "similarMolecules": 139,
+        "wikipedia": "https://en.wikipedia.org/wiki/Coriander"
+      },
+      {
+        "entityName": "Tea",
+        "category": "Plant",
+        "similarMolecules": 139,
+        "wikipedia": "https://en.wikipedia.org/wiki/Tea"
+      },
+      {
+        "entityName": "Laurel",
+        "category": "Plant",
+        "similarMolecules": 137,
+        "wikipedia": "https://en.wikipedia.org/wiki/Laurus_nobilis"
+      }
+    ]
+  },
+  "rice": {
+    "entityId": "55",
+    "topSimilarEntities": [
+      {
+        "entityName": "Tea",
+        "category": "Plant",
+        "similarMolecules": 163,
+        "wikipedia": "https://en.wikipedia.org/wiki/Tea"
+      },
+      {
+        "entityName": "Soybean",
+        "category": "Legume",
+        "similarMolecules": 152,
+        "wikipedia": "https://en.wikipedia.org/wiki/Soybean"
+      },
+      {
+        "entityName": "Cocoa",
+        "category": "Seed",
+        "similarMolecules": 147,
+        "wikipedia": "https://en.wikipedia.org/wiki/Theobroma_cacao"
+      },
+      {
+        "entityName": "Tomato",
+        "category": "Vegetable Fruit",
+        "similarMolecules": 146,
+        "wikipedia": "https://en.wikipedia.org/wiki/Tomato"
+      },
+      {
+        "entityName": "Mushroom",
+        "category": "Fungus",
+        "similarMolecules": 144,
+        "wikipedia": "https://en.wikipedia.org/wiki/Mushroom"
+      },
+      {
+        "entityName": "Guava",
+        "category": "Fruit",
+        "similarMolecules": 143,
+        "wikipedia": "https://en.wikipedia.org/wiki/Guava"
+      },
+      {
+        "entityName": "Potato",
+        "category": "Vegetable Tuber",
+        "similarMolecules": 143,
+        "wikipedia": "https://en.wikipedia.org/wiki/Potato"
+      },
+      {
+        "entityName": "Mango",
+        "category": "Fruit",
+        "similarMolecules": 139,
+        "wikipedia": "https://en.wikipedia.org/wiki/Mango"
+      },
+      {
+        "entityName": "Green Beans",
+        "category": "Vegetable",
+        "similarMolecules": 137,
+        "wikipedia": "https://en.wikipedia.org/wiki/Green_bean"
+      },
+      {
+        "entityName": "Apple",
+        "category": "Fruit",
+        "similarMolecules": 135,
+        "wikipedia": "https://en.wikipedia.org/wiki/Apple"
+      }
+    ]
+  }
+}
