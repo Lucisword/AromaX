@@ -1,3 +1,4 @@
+
 import { useState } from "react"
 
 function Engine() {
@@ -37,7 +38,7 @@ function Engine() {
       className="min-h-screen bg-neutral-950 text-white flex flex-col items-center justify-center px-6"
     >
       <h2 className="text-4xl md:text-5xl font-bold mb-10 text-center">
-        Molecular Bridge Engine
+        Molecular-Bridge Engine
       </h2>
 
       <div className="w-full max-w-2xl space-y-6">
