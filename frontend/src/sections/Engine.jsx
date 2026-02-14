@@ -45,7 +45,7 @@ function Engine() {
 
         <input
           type="text"
-          placeholder="First Ingredient"
+          placeholder="First  Ingredient"
           value={ingredientA}
           onChange={(e) => setIngredientA(e.target.value)}
           className="w-full px-5 py-4 bg-black border border-white/10 rounded-xl focus:outline-none focus:border-yellow-400 transition"
