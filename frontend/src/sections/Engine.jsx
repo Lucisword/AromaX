@@ -66,26 +66,41 @@ function Engine() {
         </button>
 
         {result && (
-          <div className="mt-8 p-6 bg-black border border-yellow-400/20 rounded-xl space-y-4">
-            <p>
-              <strong>Shortest Path:</strong> {result.path.join(" → ")}
-            </p>
-            <p>
-              <strong>Similarity:</strong> {result.similarity}
-            </p>
-            <p>
-              <strong>Shared Compounds:</strong>{" "}
-              {result.sharedCompounds.join(", ")}
-            </p>
-            <p>
-              <strong>Explanation:</strong> {result.explanation}
-            </p>
-          </div>
-        )}
+  <div className="mt-8 p-6 bg-black border border-yellow-400/20 rounded-xl space-y-4">
+
+    {result.error ? (
+      <p className="text-red-400">
+        {result.explanation}
+      </p>
+    ) : (
+      <>
+        <p>
+          <strong>Shortest Path:</strong>{" "}
+          {Array.isArray(result.path) && result.path.length > 0
+            ? result.path.join(" → ")
+            : "No path found"}
+        </p>
+
+        <p>
+          <strong>Similarity:</strong>{" "}
+          {result.similarity ?? "N/A"}
+        </p>
+
+        <p>
+          <strong>Explanation:</strong>{" "}
+          {result.explanation || "No explanation available."}
+        </p>
+      </>
+    )}
+
+  </div>
+)}
+
 
       </div>
     </section>
   )
+
 }
 
 export default Engine
