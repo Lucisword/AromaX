@@ -193,5 +193,135 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Apple"
       }
     ]
+  },
+  "mushroom": {
+    "entityId": "246",
+    "topSimilarEntities": [
+      {
+        "entityName": "Tea",
+        "category": "Plant",
+        "similarMolecules": 165,
+        "wikipedia": "https://en.wikipedia.org/wiki/Tea"
+      },
+      {
+        "entityName": "Potato",
+        "category": "Vegetable Tuber",
+        "similarMolecules": 151,
+        "wikipedia": "https://en.wikipedia.org/wiki/Potato"
+      },
+      {
+        "entityName": "Soybean",
+        "category": "Legume",
+        "similarMolecules": 149,
+        "wikipedia": "https://en.wikipedia.org/wiki/Soybean"
+      },
+      {
+        "entityName": "Tomato",
+        "category": "Vegetable Fruit",
+        "similarMolecules": 149,
+        "wikipedia": "https://en.wikipedia.org/wiki/Tomato"
+      },
+      {
+        "entityName": "Apple",
+        "category": "Fruit",
+        "similarMolecules": 148,
+        "wikipedia": "https://en.wikipedia.org/wiki/Apple"
+      },
+      {
+        "entityName": "Guava",
+        "category": "Fruit",
+        "similarMolecules": 144,
+        "wikipedia": "https://en.wikipedia.org/wiki/Guava"
+      },
+      {
+        "entityName": "Rice",
+        "category": "Cereal",
+        "similarMolecules": 144,
+        "wikipedia": "https://en.wikipedia.org/wiki/Rice"
+      },
+      {
+        "entityName": "Cocoa",
+        "category": "Seed",
+        "similarMolecules": 141,
+        "wikipedia": "https://en.wikipedia.org/wiki/Theobroma_cacao"
+      },
+      {
+        "entityName": "Grape",
+        "category": "Fruit",
+        "similarMolecules": 141,
+        "wikipedia": "https://en.wikipedia.org/wiki/Grape"
+      },
+      {
+        "entityName": "Green Beans",
+        "category": "Vegetable",
+        "similarMolecules": 141,
+        "wikipedia": "https://en.wikipedia.org/wiki/Green_bean"
+      }
+    ]
+  },
+  "strawberry": {
+    "entityId": "234",
+    "topSimilarEntities": [
+      {
+        "entityName": "Apple",
+        "category": "Fruit",
+        "similarMolecules": 188,
+        "wikipedia": "https://en.wikipedia.org/wiki/Apple"
+      },
+      {
+        "entityName": "Grape",
+        "category": "Fruit",
+        "similarMolecules": 166,
+        "wikipedia": "https://en.wikipedia.org/wiki/Grape"
+      },
+      {
+        "entityName": "Tea",
+        "category": "Plant",
+        "similarMolecules": 163,
+        "wikipedia": "https://en.wikipedia.org/wiki/Tea"
+      },
+      {
+        "entityName": "Pineapple",
+        "category": "Fruit",
+        "similarMolecules": 159,
+        "wikipedia": "https://en.wikipedia.org/wiki/Pineapple"
+      },
+      {
+        "entityName": "Mango",
+        "category": "Fruit",
+        "similarMolecules": 155,
+        "wikipedia": "https://en.wikipedia.org/wiki/Mango"
+      },
+      {
+        "entityName": "Guava",
+        "category": "Fruit",
+        "similarMolecules": 152,
+        "wikipedia": "https://en.wikipedia.org/wiki/Guava"
+      },
+      {
+        "entityName": "Passionfruit",
+        "category": "Fruit",
+        "similarMolecules": 152,
+        "wikipedia": "https://en.wikipedia.org/wiki/Passiflora_edulis"
+      },
+      {
+        "entityName": "Apricot",
+        "category": "Fruit",
+        "similarMolecules": 151,
+        "wikipedia": "https://en.wikipedia.org/wiki/Apricot"
+      },
+      {
+        "entityName": "Banana",
+        "category": "Fruit",
+        "similarMolecules": 149,
+        "wikipedia": "https://en.wikipedia.org/wiki/Banana"
+      },
+      {
+        "entityName": "Tomato",
+        "category": "Vegetable Fruit",
+        "similarMolecules": 149,
+        "wikipedia": "https://en.wikipedia.org/wiki/Tomato"
+      }
+    ]
   }
 }
