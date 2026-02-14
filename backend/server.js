@@ -2,6 +2,7 @@ import express from "express"
 import cors from "cors"
 import dotenv from "dotenv"
 
+import morphRoute from "./routes/morph.js"
 import bridgeRoute from "./routes/bridge.js"
 
 dotenv.config()
@@ -13,6 +14,7 @@ app.use(cors())
 app.use(express.json())
 
 app.use("/api/bridge", bridgeRoute)
+app.use("/api/morph", morphRoute)
 
 app.get("/", (req, res) => {
   res.send("AromaX Backend Running")
