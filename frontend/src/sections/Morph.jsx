@@ -52,7 +52,7 @@ function Morph() {
       </h2>
 
       <p className="text-emerald-400 mb-12 text-center max-w-xl">
-        Constraint-aware molecular substitution preserving flavor identity.
+        Constraint-aware molecular substitution preserving flavor identities.
       </p>
 
       <div className="w-full max-w-2xl space-y-6">
